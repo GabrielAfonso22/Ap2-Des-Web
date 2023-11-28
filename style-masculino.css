@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    gap: .5em;
+    flex-wrap: wrap;
+}
+
+header {
+    background-color: #0a79f0;
+    color: #0532c6;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+p {
+    text-align: center;
+    max-width: 400px;
+}

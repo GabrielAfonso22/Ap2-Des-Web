@@ -1,0 +1,36 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    background: url('https://logosmarcas.net/wp-content/uploads/2020/11/Real-Madrid-Logo-650x366.png')
+  }
+
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+  }
+
+  h1 {
+    color: #9d2bac;
+  }
+
+  input, p, button {
+    margin: 10px 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  button {
+    background-color: #3c0565;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
